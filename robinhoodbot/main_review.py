@@ -1,3 +1,8 @@
+"""
+    This is a working review file that does not execute any trades. It merely reviews your portfolio and lists
+    for any possible opportunities.
+"""
+
 import robin_stocks as r
 import pandas as pd
 import numpy as np
@@ -12,7 +17,7 @@ username = 'NickolausS7966'
 password = 'Vvert#1313#1313'
 #!!!
 
-print("----- Logging in -----\n")
+print("\n----- Logging in under user: " + str(username) + " -----\n")
 #Log in to Robinhood
 login = r.login(username,password)
 

@@ -1,6 +1,7 @@
 import robin_stocks as r
 import matplotlib.pyplot as plt
 import matplotlib.ticker as plticker
+import numpy as np
 
 def show_plot(price, firstIndicator, secondIndicator, dates, label1="", label2=""):
     """Displays a chart of the price and indicators for a stock
@@ -17,8 +18,9 @@ def show_plot(price, firstIndicator, secondIndicator, dates, label1="", label2="
         True if the stock's current price is higher than it was five years ago, or the stock IPO'd within the last five years
         False otherwise
     """
+    # print(stockTicker)
     plt.figure(figsize=(10,5))
-    plt.title(symbol)
+    # plt.title(symbol)
     plt.plot(dates, price, label="Closing prices")
     plt.plot(dates, firstIndicator, label=label1)
     plt.plot(dates, secondIndicator, label=label2)
@@ -41,3 +43,27 @@ def get_equity_data():
             shadow=True, startangle=90)
     ax1.axis('equal')
     plt.show()
+
+def read_watchlist(watchlist_file=""):
+    file1 = open(watchlist_file, 'r') 
+    Lines = file1.readlines() 
+
+    watchlist_names = []
+    watchlist_symbols = []
+
+    count = 0
+    while True:
+
+        if count > len(Lines):
+            break
+
+        # Get the data and add to list
+        name = Lines[count]
+        symbol = Lines[count+1]
+        watchlist_names.append(name.strip())
+        watchlist_symbols.append(symbol.strip())
+        count += 6
+
+    return [watchlist_names, watchlist_symbols]
+    # print(watchlist_names)
+    # print(watchlist_symbols)

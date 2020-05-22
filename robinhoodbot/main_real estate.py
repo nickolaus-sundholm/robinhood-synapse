@@ -126,19 +126,48 @@ def get_last_crossing(df, days, symbol="", direction=""):
     lastIndex = prices.size - 1
     index = lastIndex
     found = index
+    # check to see if recent diff of short index is below long index
     recentDiff = (shortTerm.at[index] - LongTerm.at[index]) >= 0
+
+    # # print out the recent position
+    # if recentDiff:
+    #     print("short indicator is trading above long indicator")
+    # else:
+    #     print("short indicator is trading below long indicator")
+       
+    # This statement defaults out if either we start above or start below
     if((direction == "above" and not recentDiff) or (direction == "below" and recentDiff)):
         return 0
     index -= 1
+
+    # loop through the prices. check to make sure prices are non NAN, and we haven't gone past max days to consider
+    oldDiff = recentDiff
+    crossCount = 0
+
     while(index >= 0 and found == lastIndex and not np.isnan(shortTerm.at[index]) and not np.isnan(LongTerm.at[index]) \
                         and ((pd.Timestamp("now", tz='UTC') - dates.at[index]) <= pd.Timedelta(str(days) + " days"))):
+    
+    # while(index >= 0 and found == lastIndex and not np.isnan(shortTerm.at[index]) and not np.isnan(LongTerm.at[index])):                    
+        
+        # newDiff = shortTerm.at[index] - LongTerm.at[index] >= 0
+        # if newDiff != oldDiff:
+        #     crossCount += 1
+        #     found = index
+        #     print("cross")
+        # else:
+        #     print("no cross")
+
         if(recentDiff):
             if((shortTerm.at[index] - LongTerm.at[index]) < 0):
                 found = index
+                # print("found cross - short crossed below long")
         else:
             if((shortTerm.at[index] - LongTerm.at[index]) > 0):
                 found = index
+                # print("found cross - short crossed above long")
         index -= 1
+
+    # once a cross is found:
     if(found != lastIndex):
         if((direction == "above" and recentDiff) or (direction == "below" and not recentDiff)):
             print(symbol + ": Short SMA crossed" + (" ABOVE " if recentDiff else " BELOW ") + "Long SMA at " + str(dates.at[found]) \
@@ -158,17 +187,22 @@ def five_year_check(stockTicker):
         True if the stock's current price is higher than it was five years ago, or the stock IPO'd within the last five years
         False otherwise
     """
-    instrument = r.get_instruments_by_symbols(stockTicker)
-    list_date = instrument[0].get("list_date")
-    if ((pd.Timestamp("now") - pd.to_datetime(list_date)) < pd.Timedelta("5 Y")):
-        return True
-    fiveyear = r.get_historicals(stockTicker,span='5year',bounds='regular')
-    closingPrices = []
-    for item in fiveyear:
-        closingPrices.append(float(item['close_price']))
-    recent_price = closingPrices[len(closingPrices) - 1]
-    oldest_price = closingPrices[0]
-    return (recent_price > oldest_price)
+
+    """
+    If you want a more long-term strategy, uncomment the below line and comment the subsequent
+    """
+    # instrument = r.get_instruments_by_symbols(stockTicker)
+    # list_date = instrument[0].get("list_date")
+    # if ((pd.Timestamp("now") - pd.to_datetime(list_date)) < pd.Timedelta("5 Y")):
+    #     return True
+    # fiveyear = r.get_historicals(stockTicker,span='5year',bounds='regular')
+    # closingPrices = []
+    # for item in fiveyear:
+    #     closingPrices.append(float(item['close_price']))
+    # recent_price = closingPrices[len(closingPrices) - 1]
+    # oldest_price = closingPrices[0]
+    # return (recent_price > oldest_price)
+    return True
 
 def golden_cross(stockTicker, n1, n2, days, direction=""):
     """Determine if a golden/death cross has occured for a specified stock in the last X trading days
@@ -191,6 +225,11 @@ def golden_cross(stockTicker, n1, n2, days, direction=""):
     if(direction == "above" and not five_year_check(stockTicker)):
         return False
     history = r.get_historicals(stockTicker,span='year',bounds='regular')
+    
+    # if ticker is not found return false
+    if not history:
+        return False
+        
     closingPrices = []
     dates = []
     for item in history:
@@ -199,13 +238,19 @@ def golden_cross(stockTicker, n1, n2, days, direction=""):
     price = pd.Series(closingPrices)
     dates = pd.Series(dates)
     dates = pd.to_datetime(dates)
-    sma1 = ta.volatility.bollinger_mavg(price, n=int(n1), fillna=False)
-    sma2 = ta.volatility.bollinger_mavg(price, n=int(n2), fillna=False)
+
+    # use the bollinger moving average: https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html
+    sma1 = ta.volatility.bollinger_mavg(price, n=int(n1), fillna=True)
+    sma2 = ta.volatility.bollinger_mavg(price, n=int(n2), fillna=True)
+    # print("Printing dates:\n")
+    # print(str(dates))
     series = [price.rename("Price"), sma1.rename("Indicator1"), sma2.rename("Indicator2"), dates.rename("Dates")]
     df = pd.concat(series, axis=1)
     cross = get_last_crossing(df, days, symbol=stockTicker, direction=direction)
+    
     # if(cross):
-    #     show_plot(price, sma1, sma2, dates, symbol=stockTicker, label1=str(n1)+" day SMA", label2=str(n2)+" day SMA")
+    #     # show_plot(price, sma1, sma2, dates, stockTicker=stockTicker, label1=str(n1)+" day SMA", label2=str(n2)+" day SMA")
+    #     show_plot(price, sma1, sma2, dates, label1=str(n1)+" day SMA", label2=str(n2)+" day SMA")
     return cross
 
 def sell_holdings(symbol, holdings_data):
@@ -267,25 +312,47 @@ def scan_stocks():
     potential_buys = []
     sells = []
     print("Current Portfolio: " + str(portfolio_symbols) + "\n")
-    print("Current Watchlist Names: " + str(watchlist_names) + "\n")
-    print("Current Watchlist Tickers: " + str(watchlist_symbols) + "\n")
+    # print("Current Watchlist Names: " + str(watchlist_names) + "\n")
+    # print("Current Watchlist Tickers: " + str(watchlist_symbols) + "\n")
+    
     print("----- Scanning portfolio for stocks to sell -----\n")
-    # for symbol in portfolio_symbols:
-    #     cross = golden_cross(symbol, n1=50, n2=200, days=30, direction="below")
-    #     if(cross == -1):
-    #         sell_holdings(symbol, holdings_data)
-    #         sells.append(symbol)
-    # profile_data = r.build_user_profile()
-    print("\n----- Scanning watchlist for stocks to buy -----\n")
+
+    for symbol in portfolio_symbols:
+        cross = golden_cross(symbol, n1=5, n2=10, days=60, direction="below")
+        if(cross == -1):
+            print("----- Portfolio company " + str(symbol) + "has crossed and should be sold -----\n")
+            answer = input("----- Would you like to sell your shares in " + str(symbol) + "? -----\n")
+            # sell_holdings(symbol, holdings_data)
+            sells.append(symbol)
+    profile_data = r.build_user_profile()
+
+    print("----- Scanning watchlist for stocks to buy -----\n")
+
+    # Import watchlist since robinhood api doesn't seem to be working...
+    # watchlist_symbols = ['BAC']
+    watchlist_file = 'real_estate_watchlist.txt'
+    watchlist_data = read_watchlist(watchlist_file)
+    watchlist_symbols = watchlist_data[1]
+
     for symbol in watchlist_symbols:
         if(symbol not in portfolio_symbols):
-            cross = golden_cross(symbol, n1=50, n2=200, days=10, direction="above")
+            cross = golden_cross(symbol, n1=10, n2=20, days=6, direction="above")
             if(cross == 1):
                 potential_buys.append(symbol)
-    # if(len(potential_buys) > 0):
-    #     buy_holdings(potential_buys, profile_data, holdings_data)
-    # if(len(sells) > 0):
-    #     update_trade_history(sells, holdings_data, "tradehistory.txt")
+    if(len(potential_buys) > 0):
+        print("\n----- There are: " + str(len(potential_buys)) + " potential buys in the watchlist -----\n")
+        print(potential_buys)
+        answer = input("\nWould you like to make a buy order (yes or no):")
+        if answer == "yes":
+            buy_holdings(potential_buys, profile_data, holdings_data)
+            print("\n----- Buy order has been excecuted -----\n")
+        elif answer == "no":
+            print("\n----- Buy order has been terminated -----\n")
+        else:
+            print("\nPlease enter yes or no.")
+    if(len(sells) > 0):
+        update_trade_history(sells, holdings_data, "tradehistory.txt")
+        
     print("----- Scan over -----\n")
 
 #execute the scan

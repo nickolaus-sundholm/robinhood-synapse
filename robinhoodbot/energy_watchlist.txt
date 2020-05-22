@@ -1,0 +1,3485 @@
+Berkshire Hathaway
+BRK.A
+$264,100.00
+2.09%
+427.85B
+
+Berkshire Hathaway
+BRK.B
+$176.10
+2.09%
+427.74B
+
+Exxon Mobil
+XOM
+$45.27
+3.03%
+191.83B
+
+Chevron
+CVX
+$93.00
+3.77%
+173.63B
+
+NextEra Energy
+NEE
+$232.79
+0.99%
+113.94B
+
+Total
+TOT
+$36.74
+3.93%
+94.38B
+
+British Petroleum
+BP
+$23.62
+3.10%
+79.14B
+
+Enel Societa Per Azioni
+ENLAY
+$6.81
+4.29%
+69.20B
+
+Shell
+RDS.A
+$33.50
+4.17%
+68.39B
+
+BHP Billiton
+BHP
+$45.86
+2.25%
+67.52B
+
+Dominion Energy
+D
+$78.75
+0.10%
+66.09B
+
+Enbridge
+ENB
+$32.03
+0.16%
+64.86B
+
+Gazprom
+OGZPY
+$5.44
+3.42%
+64.39B
+
+Caterpillar
+CAT
+$115.53
+3.08%
+62.62B
+
+Duke Energy
+DUK
+$83.33
+0.05%
+61.22B
+
+Southern
+SO
+$54.83
+2.35%
+57.90B
+
+Shell
+RDS.B
+$31.20
+3.24%
+57.82B
+
+CNOOC
+CEO
+$119.09
+1.05%
+53.17B
+
+Equinor
+EQNR
+$15.20
+5.12%
+50.24B
+
+Lukoil
+LUKOY
+$76.10
+5.84%
+48.00B
+
+ConocoPhillips
+COP
+$44.18
+3.54%
+47.35B
+
+Brookfield Asset Management
+BAM
+$29.99
+0.27%
+46.98B
+
+Enterprise Products
+EPD
+$19.32
+4.55%
+42.23B
+
+TC Energy
+TRP
+$42.93
+2.37%
+40.35B
+
+BHP Billiton
+BBL
+$38.12
+2.12%
+40.26B
+
+National Grid
+NGG
+$56.17
+1.01%
+39.43B
+
+American Electric Power
+AEP
+$77.82
+0.88%
+38.53B
+
+Infosys
+INFY
+$9.00
+2.39%
+38.33B
+
+Exelon
+EXC
+$36.97
+0.71%
+36.02B
+
+Sempra Energy
+SRE
+$122.64
+2.74%
+35.86B
+
+Kinder Morgan
+KMI
+$15.67
+2.15%
+35.39B
+
+Phillips 66
+PSX
+$78.25
+4.03%
+34.17B
+
+Mitsubishi
+MSBHY
+$44.62
+0.45%
+33.12B
+
+Eni
+E
+$18.44
+2.22%
+32.94B
+
+Xcel Energy
+XEL
+$60.25
+0.92%
+31.63B
+
+Itochu
+ITOCY
+$41.68
+0.97%
+31.06B
+
+EOG Resources
+EOG
+$52.61
+3.85%
+30.64B
+
+Suncor
+SU
+$18.35
+6.69%
+27.99B
+
+WEC Energy
+WEC
+$87.30
+0.70%
+27.54B
+
+Valero
+VLO
+$67.34
+5.14%
+27.45B
+
+E.ON
+EONGY
+$10.39
+1.96%
+27.09B
+
+CK Hutchison
+CKHUY
+$6.94
+0.86%
+26.76B
+
+Eversource
+ES
+$79.40
+1.50%
+26.71B
+
+CLP
+CLPHY
+$10.46
+1.51%
+26.42B
+
+Petrobras
+PBR
+$7.00
+4.17%
+26.01B
+
+Engie
+ENGIY
+$10.67
+0.57%
+25.75B
+
+Schlumberger
+SLB
+$18.25
+6.66%
+25.27B
+
+Mitsui & Co.
+MITSY
+$300.17
+0.06%
+25.24B
+
+Public Service Enterprise Group
+PEG
+$48.85
+0.72%
+24.62B
+
+Glencore
+GLNCY
+$3.72
+1.36%
+24.54B
+
+Marathon Petroleum
+MPC
+$36.82
+6.72%
+23.94B
+
+Williams Cos.
+WMB
+$19.72
+1.54%
+23.92B
+
+Consolidated Edison
+ED
+$70.74
+0.20%
+23.63B
+
+Energy Transfer
+ET
+$8.29
+4.28%
+22.34B
+
+Canadian Natural Resource
+CNQ
+$18.60
+3.33%
+21.96B
+
+Gazprom Neft
+GZPFY
+$23.15
+1.05%
+21.95B
+
+Ecopetrol
+EC
+$10.66
+3.50%
+21.92B
+
+FirstEnergy
+FE
+$40.28
+0.20%
+21.82B
+
+Edison International
+EIX
+$56.26
+2.02%
+21.26B
+
+MPLX
+MPLX
+$20.02
+3.41%
+21.19B
+
+DTE Energy
+DTE
+$103.25
+0.38%
+19.89B
+
+PPL
+PPL
+$25.59
+0.95%
+19.67B
+
+Entergy
+ETR
+$97.59
+1.07%
+19.53B
+
+RWE
+RWEOY
+$31.50
+2.17%
+19.36B
+
+Petrobras
+PBR.A
+$6.80
+4.62%
+19.05B
+
+Ameren
+AEE
+$70.33
+0.45%
+17.36B
+
+Fortis
+FTS
+$36.73
+0.81%
+17.05B
+
+CMS Energy
+CMS
+$55.44
+0.24%
+15.87B
+
+SSE
+SSEZY
+$14.86
+0.13%
+15.40B
+
+Cheniere Energy
+CQP
+$31.70
+0.60%
+15.34B
+
+Pioneer Natural Resources
+PXD
+$92.43
+3.10%
+15.24B
+
+Brookfield Renewable
+BEP
+$49.28
+0.94%
+15.21B
+
+Oneok
+OKE
+$36.51
+3.99%
+15.11B
+
+Hess
+HES
+$47.34
+3.23%
+14.54B
+
+Sumitomo
+SSUMY
+$11.59
+0.17%
+14.48B
+
+Woodside Petroleum
+WOPEY
+$15.08
+1.89%
+14.36B
+
+Pembina
+PBA
+$25.87
+3.19%
+14.22B
+
+Occidental Petroleum
+OXY
+$14.99
+4.31%
+13.49B
+
+Evergy
+EVRG
+$59.11
+2.37%
+13.40B
+
+Power Assets Holdings
+HGKGY
+$6.11
+0.66%
+13.04B
+
+Avangrid
+AGR
+$40.51
+0.37%
+12.52B
+
+China Petroleum & ChemicalSinopec
+SNP
+$48.44
+1.32%
+12.36B
+
+Teledyne Technologies
+TDY
+$333.00
+1.58%
+12.21B
+
+Atmos Energy
+ATO
+$99.41
+3.23%
+12.16B
+
+Ingersoll Rand
+IR
+$29.02
+1.90%
+12.09B
+
+Enel Americas
+ENIA
+$7.83
+0.77%
+11.92B
+
+Alliant Energy
+LNT
+$46.66
+0.73%
+11.64B
+
+Brookfield Infrastructure
+BIP
+$39.45
+1.65%
+11.58B
+
+Cheniere Energy
+LNG
+$45.76
+6.10%
+11.54B
+
+POSCO
+PKX
+$35.95
+0.08%
+11.52B
+
+Imperial Oil
+IMO
+$15.61
+4.07%
+11.46B
+
+Concho Resources
+CXO
+$58.10
+1.34%
+11.43B
+
+Korea Electric Power
+KEP
+$8.82
+0.23%
+11.32B
+
+Halliburton
+HAL
+$11.95
+7.17%
+10.48B
+
+Icahn Enterprises
+IEP
+$48.23
+0.10%
+10.34B
+
+Baker Hughes
+BKR
+$15.61
+7.58%
+10.23B
+
+Phillips 66 Partners
+PSXP
+$44.63
+1.20%
+10.19B
+
+Magellan Midstream
+MMP
+$44.42
+1.18%
+10.00B
+
+Vistra Energy
+VST
+$19.99
+2.36%
+9.77B
+
+Red Electrica
+RDEIY
+$8.60
+1.06%
+9.28B
+
+Emera
+EMRAF
+$37.78
+3.42%
+9.25B
+
+Galp Energia
+GLPEY
+$5.92
+0.67%
+9.13B
+
+Loews
+L
+$32.19
+3.64%
+9.06B
+
+NiSource
+NI
+$23.08
+0.13%
+8.84B
+
+NRG Energy
+NRG
+$35.50
+0.42%
+8.67B
+
+AES
+AES
+$12.97
+1.25%
+8.62B
+
+CenterPoint Energy
+CNP
+$16.92
+0.18%
+8.50B
+
+Pinnacle West
+PNW
+$72.77
+0.25%
+8.19B
+
+Tenaris
+TS
+$12.79
+4.07%
+7.55B
+
+Cabot Oil & Gas
+COG
+$18.91
+3.84%
+7.54B
+
+PetroChina
+PTR
+$35.54
+0.51%
+7.50B
+
+Algonquin Power & Utilities
+AQN
+$13.45
+2.25%
+7.09B
+
+Diamondback Energy
+FANG
+$43.66
+4.35%
+6.89B
+
+Plains All American Pipeline
+PAA
+$9.35
+3.43%
+6.81B
+
+UgiUGI
+UGI
+$31.19
+2.84%
+6.50B
+
+PG&E
+PCG
+$12.00
+1.18%
+6.36B
+
+South32
+SOUHY
+$6.61
+3.61%
+6.35B
+
+OGE Energy
+OGE
+$31.12
+3.22%
+6.23B
+
+China Shenhua Energy
+CSUAY
+$7.19
+0.70%
+6.11B
+
+Eletrobras
+EBR
+$4.19
+1.21%
+5.40B
+
+Cenovus Energy
+CVE
+$4.31
+7.48%
+5.30B
+
+Shell Midstream
+SHLX
+$13.20
+0.38%
+5.19B
+
+Teck Resources
+TECK
+$9.75
+0.93%
+5.18B
+
+Hollyfrontier
+HFC
+$31.75
+7.77%
+5.14B
+
+Enel Chile
+ENIC
+$3.70
+1.09%
+5.12B
+
+Continental Resources
+CLR
+$13.88
+3.27%
+5.07B
+
+National Oilwell Varco
+NOV
+$13.00
+7.97%
+5.05B
+
+ITT
+ITT
+$54.03
+2.16%
+4.76B
+
+Devon Energy
+DVN
+$12.42
+0.89%
+4.75B
+
+Marathon Oil
+MRO
+$5.95
+2.23%
+4.70B
+
+Noble Energy
+NBL
+$9.74
+5.53%
+4.67B
+
+Oil Search
+OISHY
+$11.18
+8.12%
+4.64B
+
+Quanta
+PWR
+$33.54
+1.64%
+4.62B
+
+Texas Pacific Land Trust
+TPL
+$584.81
+6.16%
+4.54B
+
+Apache
+APA
+$11.95
+5.19%
+4.51B
+
+IdaCorp
+IDA
+$87.85
+0.90%
+4.43B
+
+Vedanta
+VEDL
+$4.71
+2.08%
+4.36B
+
+MDU Resources
+MDU
+$20.97
+0.47%
+4.20B
+
+TerraForm Power
+TERP
+$18.53
+1.26%
+4.20B
+
+Hawaiian Electric
+HE
+$38.23
+2.58%
+4.17B
+
+ONE Gas
+OGS
+$78.39
+1.99%
+4.14B
+
+Targa Resources
+TRGP
+$17.36
+3.83%
+4.05B
+
+Southwest Gas
+SWX
+$73.07
+2.83%
+4.03B
+
+Cameco
+CCJ
+$10.07
+2.86%
+3.99B
+
+Western Midstream Partners
+WES
+$8.75
+3.92%
+3.88B
+
+EQM Midstream Partners, LP
+EQM
+$19.36
+1.43%
+3.88B
+
+Portland General Electric
+POR
+$42.81
+1.95%
+3.83B
+
+Black Hills
+BKH
+$58.38
+0.21%
+3.66B
+
+Spire
+SR
+$70.83
+2.36%
+3.63B
+
+Ormat
+ORA
+$70.63
+2.60%
+3.60B
+
+Parsley Energy
+PE
+$9.51
+2.48%
+3.59B
+
+Darling Ingredients
+DAR
+$21.82
+2.15%
+3.58B
+
+National Fuel Gas
+NFG
+$41.30
+2.28%
+3.58B
+
+EQT
+EQT
+$13.33
+4.14%
+3.41B
+
+TechnipFMC
+FTI
+$7.49
+7.31%
+3.35B
+
+Wpx Energy
+WPX
+$5.93
+4.40%
+3.32B
+
+New Jersey Resources
+NJR
+$33.73
+3.15%
+3.23B
+
+Endesa
+EOCCY
+$11.75
+5.86%
+3.21B
+
+NextEra Energy
+NEP
+$48.75
+1.08%
+3.19B
+
+PNM Resources
+PNM
+$39.70
+0.18%
+3.16B
+
+Weir Group
+WEGRY
+$6.03
+0.50%
+3.13B
+
+Kirby
+KEX
+$51.18
+2.40%
+3.07B
+
+Ultrapar Participacoes
+UGP
+$2.75
+5.77%
+2.99B
+
+Northwestern
+NWE
+$57.80
+2.08%
+2.92B
+
+Sasol
+SSL
+$4.76
+5.78%
+2.91B
+
+American States Water
+AWR
+$77.98
+3.12%
+2.88B
+
+ALLETE
+ALE
+$54.04
+2.68%
+2.80B
+
+El Paso Electric
+EE
+$68.05
+0.00%
+2.78B
+
+Cimarex Energy
+XEC
+$27.04
+3.88%
+2.76B
+
+Centrica
+CPYYY
+$1.89
+0.80%
+2.74B
+
+Atlantica Sustainable Infrastructure
+AY
+$26.42
+5.64%
+2.68B
+
+Avista
+AVA
+$38.09
+3.20%
+2.56B
+
+Cosan
+CZZ
+$11.50
+1.88%
+2.55B
+
+South Jersey Industries
+SJI
+$27.49
+3.11%
+2.54B
+
+Itron
+ITRI
+$62.52
+5.55%
+2.51B
+
+Macquarie Infrastructure
+MIC
+$28.75
+2.79%
+2.49B
+
+TC Pipelines
+TCP
+$34.82
+1.07%
+2.48B
+
+Clearway Energy
+CWEN
+$20.97
+1.40%
+2.39B
+
+MGE Energy
+MGEE
+$64.12
+4.16%
+2.32B
+
+Clearway Energy
+CWEN.A
+$19.60
+1.66%
+2.23B
+
+CVR Energy
+CVI
+$21.00
+5.00%
+2.11B
+
+Euronav
+EURN
+$9.80
+2.30%
+2.11B
+
+Sunoco
+SUN
+$25.22
+3.02%
+2.09B
+
+Antero Midstream
+AM
+$4.38
+8.68%
+2.09B
+
+Brookfield Infrastructure
+BIPC
+$44.89
+2.33%
+2.08B
+
+DCP Midstream
+DCP
+$9.68
+5.68%
+2.02B
+
+Helmerich & Payne
+HP
+$18.77
+0.42%
+2.02B
+
+Ovintiv
+OVV
+$7.74
+8.40%
+2.01B
+
+Northwest Natural
+NWN
+$63.11
+4.28%
+1.93B
+
+Murphy Oil
+MUR
+$12.49
+4.61%
+1.92B
+
+Sunrun
+RUN
+$15.91
+2.58%
+1.91B
+
+CNX Resources
+CNX
+$10.18
+0.59%
+1.90B
+
+Equitrans Midstream
+ETRN
+$8.00
+1.36%
+1.83B
+
+Plains Group
+PAGP
+$9.77
+2.84%
+1.80B
+
+Huaneng Power International
+HNP
+$15.25
+2.42%
+1.79B
+
+Enable Midstream
+ENBL
+$4.00
+2.68%
+1.74B
+
+YPF
+YPF
+$4.39
+0.00%
+1.73B
+
+Subsea 7
+SUBCY
+$5.74
+4.55%
+1.71B
+
+NuStar
+NS
+$15.47
+6.62%
+1.69B
+
+Otter Tail
+OTTR
+$40.87
+3.31%
+1.65B
+
+Holly Energy
+HEP
+$15.51
+0.85%
+1.64B
+
+Delek
+DK
+$22.17
+9.27%
+1.63B
+
+World Fuel Services
+INT
+$24.34
+2.27%
+1.59B
+
+Magnolia Oil & Gas
+MGY
+$6.28
+5.55%
+1.58B
+
+YANZHOU COAL MNG CO LTD American Depositary Receipts - Sponsored
+YZCAY
+$8.15
+0.12%
+1.58B
+
+Southwestern Energy
+SWN
+$2.90
+1.36%
+1.57B
+
+Frontline
+FRO
+$7.93
+0.89%
+1.56B
+
+Transalta
+TAC
+$5.59
+4.10%
+1.54B
+
+CEMIG
+CIG
+$1.58
+3.27%
+1.53B
+
+Range Resources
+RRC
+$5.84
+0.85%
+1.49B
+
+Chesapeake Utilities
+CPK
+$88.63
+4.59%
+1.46B
+
+United States Steel
+X
+$7.92
+3.39%
+1.35B
+
+PBF Energy
+PBF
+$11.17
+8.98%
+1.34B
+
+Copel
+ELP
+$10.08
+0.50%
+1.29B
+
+BP Midstream
+BPMP
+$12.15
+0.33%
+1.27B
+
+PDC Energy
+PDCE
+$12.66
+3.60%
+1.26B
+
+Brooge Energy
+BROG
+$10.94
+1.67%
+1.20B
+
+Eletrobras (Preferred)
+EBR.B
+$4.48
+0.45%
+1.19B
+
+Sunnova Energy
+NOVA
+$14.07
+5.57%
+1.18B
+
+Covanta Energy
+CVA
+$8.94
+1.71%
+1.18B
+
+Kenon
+KEN
+$21.25
+0.82%
+1.14B
+
+EnLink Midstream
+ENLC
+$2.15
+12.57%
+1.05B
+
+Bloom Energy
+BE
+$8.00
+3.26%
+1.03B
+
+Scorpio Tankers
+STNG
+$17.50
+4.79%
+1.03B
+
+Renewable Energy Group
+REGI
+$26.16
+0.61%
+1.02B
+
+USA Compression
+USAC
+$10.30
+4.89%
+996.23M
+
+Dril-quip
+DRQ
+$27.90
+8.01%
+978.19M
+
+Comstock Resources
+CRK
+$5.12
+3.85%
+975.28M
+
+Ameresco
+AMRC
+$20.37
+2.93%
+967.78M
+
+Matador Resources
+MTDR
+$8.20
+4.33%
+955.82M
+
+Shanghai Petrochemical
+SHI
+$27.00
+2.47%
+943.65M
+
+Crestwood Equity
+CEQP
+$12.27
+4.69%
+903.21M
+
+Archrock
+AROC
+$5.87
+11.17%
+897.68M
+
+Transocean
+RIG
+$1.46
+3.55%
+897.28M
+
+Teekay LNG Partners
+TGP
+$11.50
+5.31%
+891.35M
+
+Core Laboratories
+CLB
+$19.84
+4.70%
+882.02M
+
+Genesis Energy
+GEL
+$7.15
+3.62%
+876.44M
+
+Cactus
+WHD
+$18.21
+9.57%
+863.16M
+
+Suburban Propane
+SPH
+$13.81
+1.77%
+858.04M
+
+Vivint Solar
+VSLR
+$6.80
+2.30%
+847.76M
+
+DHT Holdings
+DHT
+$5.74
+0.86%
+843.46M
+
+Vermillion Energy
+VET
+$5.32
+8.35%
+831.46M
+
+Talos Energy
+TALO
+$12.60
+6.24%
+823.31M
+
+Antero Resources
+AR
+$3.06
+2.00%
+821.27M
+
+Crescent Point Energy
+CPG
+$1.49
+5.67%
+788.66M
+
+CEMIG
+CIG.C
+$1.59
+0.69%
+775.75M
+
+Pampa Energia
+PAM
+$11.03
+2.82%
+771.16M
+
+CGG American Depositary Receipts - Sponsored
+CGGYY
+$1.08
+1.82%
+766.74M
+
+Kosmos Energy
+KOS
+$1.86
+14.11%
+753.66M
+
+Noble Midstream Partners
+NBLX
+$8.23
+3.13%
+743.76M
+
+Rpc
+RES
+$3.44
+4.24%
+740.49M
+
+Warrior Met Coal
+HCC
+$14.21
+2.01%
+727.09M
+
+Patterson-UTI Energy
+PTEN
+$3.88
+8.38%
+723.63M
+
+MEG Energy
+MEGEF
+$2.41
+9.61%
+722.23M
+
+Azure Power
+AZRE
+$15.05
+0.79%
+716.92M
+
+Apergy
+APY
+$8.99
+4.05%
+696.77M
+
+Nordic American Tankers
+NAT
+$4.72
+4.66%
+694.93M
+
+Unitil
+UTL
+$46.07
+1.88%
+689.21M
+
+Golar LNG
+GLNG
+$6.90
+6.98%
+674.84M
+
+NGL Energy
+NGL
+$5.21
+3.34%
+668.70M
+
+Delek Logistics
+DKL
+$22.60
+5.31%
+665.03M
+
+NexTier Oilfield Solutions
+NEX
+$3.07
+11.23%
+656.34M
+
+CNX Midstream
+CNXM
+$7.25
+3.72%
+651.04M
+
+Enerplus
+ERF
+$2.89
+6.64%
+643.21M
+
+PBF Logistics
+PBFX
+$10.18
+4.73%
+632.48M
+
+International Seaways
+INSW
+$20.99
+3.09%
+605.43M
+
+TORM
+TRMD
+$7.95
+2.98%
+591.86M
+
+Teekay Tankers
+TNK
+$16.05
+2.43%
+540.16M
+
+CrossAmerica
+CAPL
+$14.26
+5.71%
+539.97M
+
+Oceaneering
+OII
+$5.36
+6.56%
+532.07M
+
+SEACOR Holdings
+CKH
+$25.65
+3.59%
+521.54M
+
+Mercer International
+MERC
+$7.75
+3.13%
+509.95M
+
+ProPetro Holding
+PUMP
+$5.05
+8.60%
+507.12M
+
+GeoPark
+GPRK
+$8.01
+1.26%
+485.02M
+
+Par Pacific
+PARR
+$8.93
+4.44%
+481.00M
+
+NexGen Energy
+NXE
+$1.30
+0.76%
+468.78M
+
+Mechel (Preferred)
+MTL-
+$0.5585
+27.83%
+463.84M
+
+National Energy Services Reunited
+NESR
+$5.29
+15.00%
+462.85M
+
+Frank's International
+FI
+$2.04
+3.03%
+460.45M
+
+ADECOAGRO
+AGRO
+$3.83
+1.59%
+452.66M
+
+KNOT Offshore
+KNOP
+$13.70
+3.32%
+447.91M
+
+Central Puerto
+CEPU
+$2.94
+1.67%
+445.12M
+
+Liberty Oilfield
+LBRT
+$5.35
+7.65%
+440.28M
+
+Select Energy Services
+WTTR
+$5.00
+10.13%
+434.26M
+
+Dorian LPG
+LPG
+$8.00
+10.65%
+430.70M
+
+FuelCell Energy
+FCEL
+$2.04
+4.08%
+430.38M
+
+DMC Global
+BOOM
+$27.91
+6.85%
+411.71M
+
+Heritage Crystal Clean
+HCCI
+$17.59
+11.05%
+409.11M
+
+SM Energy
+SM
+$3.62
+3.72%
+409.02M
+
+Diamond S Shipping
+DSSI
+$10.11
+2.22%
+408.95M
+
+Clean Energy Fuels
+CLNE
+$2.04
+3.30%
+408.88M
+
+Rattler Midstream
+RTLR
+$9.27
+4.16%
+405.10M
+
+Transportadora de Gas del Sur
+TGS
+$5.31
+1.12%
+402.94M
+
+Helix Energy
+HLX
+$2.62
+4.80%
+393.01M
+
+Alliance Resource
+ARLP
+$3.08
+1.65%
+391.76M
+
+Switchback Energy
+SBE
+$9.85
+0.00%
+386.76M
+
+W&t Offshore
+WTI
+$2.72
+5.84%
+385.34M
+
+Hoegh LNG
+HMLP
+$11.00
+3.29%
+366.15M
+
+Mechel
+MTL
+$1.73
+1.76%
+360.07M
+
+Northern Oil & Gas
+NOG
+$0.8782
+3.32%
+356.37M
+
+Contango Oil & Gas
+MCF
+$2.76
+2.47%
+356.18M
+
+Global Partners
+GLP
+$10.40
+2.06%
+353.56M
+
+Berry
+BRY
+$4.38
+6.96%
+349.34M
+
+New Fortress Energy
+NFE
+$14.35
+2.50%
+347.79M
+
+Star Group
+SGU
+$7.60
+0.53%
+343.50M
+
+Delek Group
+DGRLY
+$3.00
+3.81%
+341.92M
+
+Bonanza Creek Energy
+BCEI
+$16.24
+1.75%
+337.35M
+
+Hess Midstream
+HESM
+$18.41
+0.33%
+331.90M
+
+Peabody Energy
+BTU
+$3.32
+5.40%
+324.36M
+
+Sprague Resources
+SRLP
+$14.13
+2.54%
+323.90M
+
+Teekay
+TK
+$3.11
+9.51%
+313.49M
+
+Navigator Holdings
+NVGS
+$5.50
+7.42%
+307.05M
+
+Callon Petroleum
+CPE
+$0.7625
+4.88%
+302.71M
+
+Vista Oil & Gas
+VIST
+$3.38
+0.29%
+293.50M
+
+Peyto
+PEYUF
+$1.76
+5.39%
+290.18M
+
+GasLog
+GLOG
+$3.60
+2.70%
+289.97M
+
+Tellurian
+TELL
+$1.08
+4.85%
+288.56M
+
+Advantage Oil & Gas Ltd Ordinary Shares (Canada)
+AAVVF
+$1.52
+4.05%
+283.92M
+
+Tennessee Valley Authority Power Bonds Series D
+TVC
+$25.21
+0.20%
+276.30M
+
+SunCoke Energy
+SXC
+$3.16
+5.69%
+261.53M
+
+Tsakos Energy Navigation
+TNP
+$2.71
+6.27%
+259.27M
+
+Denison Mines
+DNN
+$0.4141
+1.00%
+259.23M
+
+FLEX LNG
+FLNG
+$4.76
+8.53%
+257.82M
+
+Centennial Resource Development
+CDEV
+$0.9263
+0.74%
+256.66M
+
+GasLog
+GLOP
+$5.32
+2.31%
+253.71M
+
+Gulfport Energy
+GPOR
+$1.47
+5.76%
+235.01M
+
+Oil States International
+OIS
+$3.72
+20.00%
+226.70M
+
+Laredo Petroleum
+LPI
+$0.9279
+2.19%
+222.14M
+
+Genie Energy
+GNE
+$8.32
+2.34%
+219.13M
+
+Ellomay Capital
+ELLO
+$19.00
+0.00%
+218.10M
+
+Tidewater
+TDW
+$5.30
+13.49%
+213.50M
+
+Weatherford Intl
+WFTLF
+$3.00
+12.54%
+210.05M
+
+Uranium Energy
+UEC
+$1.13
+2.73%
+207.82M
+
+RGC Resources
+RGCO
+$25.42
+3.17%
+206.87M
+
+Calumet Specialty Products
+CLMT
+$2.61
+8.75%
+203.47M
+
+Montage Resources
+MR
+$5.54
+2.21%
+198.41M
+
+Newpark
+NR
+$2.20
+12.82%
+197.78M
+
+QEP Resources
+QEP
+$0.7989
+3.62%
+193.48M
+
+NACCO
+NC
+$27.55
+4.12%
+193.44M
+
+Energy Fuels
+UUUU
+$1.63
+3.82%
+191.56M
+
+Consol Energy
+CEIX
+$7.30
+7.20%
+190.01M
+
+Atlantic Power
+AT
+$1.98
+1.98%
+186.98M
+
+Solaris Oilfield Infrastructure
+SOI
+$6.36
+8.53%
+186.95M
+
+NextDecade
+NEXT
+$1.51
+2.72%
+182.18M
+
+Exterran
+EXTN
+$5.41
+3.24%
+179.34M
+
+Oasis Petroleum
+OAS
+$0.55
+3.77%
+178.05M
+
+Baytex
+BTE
+$0.313
+5.32%
+175.44M
+
+Natural Resource
+NRP
+$14.26
+0.21%
+174.84M
+
+Overseas Shipholding Group
+OSG
+$2.01
+3.61%
+172.82M
+
+North American Energy
+NOA
+$5.93
+13.38%
+172.15M
+
+PrimeEnergy
+PNRG
+$86.01
+6.51%
+171.52M
+
+Ardmore Shipping
+ASC
+$5.10
+9.68%
+169.45M
+
+Oasis Midstream
+OMP
+$8.40
+12.75%
+168.51M
+
+Golar LNG
+GMLP
+$2.41
+2.55%
+167.02M
+
+Nabors Industries
+NBR
+$22.06
+11.08%
+161.03M
+
+Precision Drilling
+PDS
+$0.5575
+4.89%
+152.88M
+
+Capital Product
+CPLP
+$7.98
+2.05%
+145.06M
+
+Denbury
+DNR
+$0.2608
+0.31%
+132.05M
+
+Chesapeake Energy
+CHK
+$13.25
+10.69%
+129.63M
+
+L.B. Foster
+FSTR
+$11.76
+2.26%
+125.91M
+
+CONSOL Coal Resources
+CCR
+$4.52
+2.96%
+125.16M
+
+Adams Resources & Energy
+AE
+$28.90
+8.20%
+122.41M
+
+Penn Virginia
+PVAC
+$7.94
+7.30%
+120.35M
+
+Steel Partners
+SPLP
+$4.72
+2.50%
+117.53M
+
+Era Group
+ERA
+$5.24
+8.49%
+112.79M
+
+Parker Drilling
+PKDC
+$7.15
+1.38%
+107.57M
+
+Martin Midstream
+MMLP
+$2.75
+15.06%
+107.10M
+
+Ramaco Resources
+METC
+$2.49
+6.87%
+106.36M
+
+Spark Energy
+SPKE
+$6.87
+8.02%
+99.68M
+
+Gran Tierra Energy
+GTE
+$0.268
+3.40%
+98.35M
+
+StealthGas
+GASS
+$2.49
+2.05%
+97.67M
+
+Goodrich Petroleum
+GDP
+$7.75
+19.97%
+97.14M
+
+Geospace Technologies
+GEOS
+$6.91
+8.82%
+94.43M
+
+Whiting Petroleum
+WLL
+$0.9445
+2.81%
+86.34M
+
+Ur-Energy
+URG
+$0.5371
+1.67%
+86.19M
+
+Evolution Petroleum
+EPM
+$2.61
+6.53%
+86.02M
+
+Natural Gas Services Group
+NGS
+$6.37
+5.12%
+85.99M
+
+Summit Midstream
+SMLP
+$0.862
+4.54%
+81.51M
+
+Navios Maritime
+NNA
+$5.08
+3.89%
+80.96M
+
+California Resources
+CRC
+$1.64
+7.89%
+80.95M
+
+Earthstone Energy
+ESTE
+$2.60
+15.04%
+77.62M
+
+Epsilon Energy
+EPSN
+$2.92
+0.69%
+76.80M
+
+Battalion Oil
+BATL
+$4.65
+1.27%
+75.35M
+
+Empresa Distribuidora y Comercial
+EDN
+$3.40
+1.49%
+75.18M
+
+Panhandle Oil And GasPanhandle Oil & Gas
+PHX
+$4.45
+3.73%
+72.94M
+
+Valaris
+VAL
+$0.3304
+2.64%
+68.04M
+
+Sky Solar Holdings
+SKYS
+$3.12
+4.88%
+65.45M
+
+Borr Drilling
+BORR
+$0.5714
+4.27%
+63.32M
+
+Mammoth Energy
+TUSK
+$1.38
+8.66%
+62.25M
+
+Ferrellgas
+FGPR
+$0.64
+6.65%
+62.18M
+
+JUST ENERGY
+JE
+$0.4089
+2.00%
+61.99M
+
+Ring Energy
+REI
+$0.9091
+5.97%
+61.80M
+
+HighPoint Resources
+HPR
+$0.2849
+3.22%
+61.27M
+
+Contura Energy
+CTRA
+$3.15
+2.94%
+57.61M
+
+Nine Energy
+NINE
+$1.78
+9.20%
+56.53M
+
+Dynagas LNG
+DLNG
+$1.57
+0.00%
+55.72M
+
+Blueknight Energy
+BKEP
+$1.35
+0.00%
+55.40M
+
+Vaalco
+EGY
+$0.95
+2.55%
+54.58M
+
+Cypress Environmental
+CELP
+$4.44
+9.09%
+54.21M
+
+SandRidge Energy
+SD
+$1.51
+4.86%
+54.03M
+
+PEDEVCO
+PED
+$0.7341
+3.61%
+52.21M
+
+Tetra Technologies
+TTI
+$0.41
+1.91%
+51.62M
+
+SilverBow Resources
+SBOW
+$4.26
+1.43%
+50.64M
+
+Seadrill
+SDRL
+$0.50
+3.03%
+50.12M
+
+Zion Oil & Gas
+ZN
+$0.287
+2.65%
+49.76M
+
+Altus Midstream
+ALTM
+$0.6301
+4.63%
+47.21M
+
+ReneSola
+SOL
+$0.9599
+0.50%
+46.17M
+
+Extraction Oil & Gas
+XOG
+$0.3161
+5.75%
+43.66M
+
+Amplify
+AMPY
+$1.16
+8.41%
+43.58M
+
+Grindrod Shipping
+GRIN
+$2.28
+7.32%
+43.47M
+
+Gulf Island Fabrication
+GIFI
+$2.80
+3.32%
+42.81M
+
+Noble
+NE
+$0.1663
+1.54%
+41.73M
+
+Profire Energy
+PFIE
+$0.87
+2.38%
+41.49M
+
+Transglobe Energy
+TGA
+$0.5446
+4.73%
+39.51M
+
+KLX Energy
+KLXE
+$1.54
+10.79%
+38.10M
+
+Forum Energy Technologies
+FET
+$0.3251
+6.50%
+36.21M
+
+ION Geophysical
+IO
+$2.40
+14.83%
+36.09M
+
+Abraxas
+AXAS
+$0.2095
+1.60%
+35.28M
+
+Obsidian Energy
+OBELF
+$0.48
+6.67%
+35.05M
+
+SEACOR Marine
+SMHI
+$1.50
+3.85%
+34.54M
+
+PACIFIC DRILLING
+PACD
+$0.4398
+3.15%
+33.07M
+
+Ranger Energy Services
+RNGR
+$3.81
+4.38%
+32.30M
+
+Indonesia Energy
+INDO
+$4.34
+4.41%
+31.96M
+
+Dawson Geophysical
+DWSN
+$1.37
+0.00%
+31.96M
+
+TOP Ships
+TOPS
+$0.1458
+1.69%
+31.43M
+
+Torchlight Energy Resources
+TRCH
+$0.362
+1.97%
+29.62M
+
+Vertex Energy
+VTNR
+$0.65
+0.00%
+29.61M
+
+ENGlobal
+ENG
+$1.04
+4.59%
+28.51M
+
+U.S. Well Services
+USWS
+$0.41
+4.09%
+28.03M
+
+Diamond Offshore Drilling
+DOFSQ
+$0.192
+2.04%
+26.49M
+
+Quintana Energy
+QES
+$0.77
+4.05%
+26.00M
+
+Chaparral Energy
+CHAP
+$0.5349
+2.75%
+25.56M
+
+American Resources
+AREC
+$0.93
+3.33%
+25.21M
+
+Independence Contract Drilling
+ICD
+$6.58
+2.17%
+25.11M
+
+Nuverra Environmental Solutions
+NES
+$1.50
+3.23%
+23.64M
+
+NCS Multistage
+NCSM
+$0.49
+1.80%
+23.11M
+
+Tecogen
+TGEN
+$0.91
+1.09%
+22.61M
+
+GSE Systems
+GVP
+$1.08
+5.13%
+21.81M
+
+Superior Drilling Products
+SDPI
+$0.8525
+0.39%
+21.68M
+
+Hallador Energy
+HNRG
+$0.7001
+0.00%
+21.30M
+
+The Peck Company
+PECK
+$4.01
+1.96%
+21.24M
+
+CSI Compressco
+CCLP
+$0.4423
+7.90%
+20.94M
+
+Pyxis Tankers
+PXS
+$0.9599
+0.96%
+20.51M
+
+RigNet
+RNET
+$0.99
+4.84%
+20.25M
+
+Superior Energy Services
+SPN
+$1.25
+0.00%
+19.75M
+
+Sundance Energy
+SNDE
+$2.60
+2.77%
+17.88M
+
+Lilis Energy
+LLEX
+$0.1861
+2.03%
+17.76M
+
+Hermitage Offshore Services
+PSV
+$0.53
+0.51%
+16.61M
+
+Lonestar Resources
+LONE
+$0.62
+4.18%
+15.67M
+
+Unit
+UNT
+$0.265
+1.92%
+14.69M
+
+TransAtlantic Petroleum
+TAT
+$0.235
+4.35%
+14.65M
+
+Rosehill Resources (Unit)
+ROSEU
+$0.49
+14.75%
+14.12M
+
+VivoPower
+VVPR
+$0.9406
+0.49%
+12.75M
+
+Houston American Energy
+HUSA
+$0.1344
+1.32%
+11.69M
+
+BELLATRIX EXPL LTD Ordinary Shares
+BXEFF
+$0.2849
+0.00%
+11.64M
+
+Rosehill Resources
+ROSE
+$0.3619
+0.85%
+10.43M
+
+CleanSpark
+CLSK
+$2.12
+19.10%
+10.32M
+
+Mitcham
+MIND
+$0.7901
+6.77%
+9.63M
+
+Enservco
+ENSV
+$0.1699
+0.53%
+9.45M
+
+Westwater Resources, Inc. Common Stock
+WWR
+$1.88
+5.62%
+9.38M
+
+Alternus Energy
+ALTN
+$0.11
+0.00%
+9.12M
+
+Sanchez Midstream
+SNMP
+$0.4349
+2.38%
+8.68M
+
+Mcdermott
+MDRIQ
+$0.0426
+0.93%
+8.23M
+
+SAExploration
+SAEX
+$1.70
+0.00%
+7.54M
+
+US Energy
+USEG
+$5.27
+5.09%
+7.37M
+
+Basis Energy Services, Inc. Common Stock
+BASX
+$0.29
+1.75%
+7.25M
+
+Royale Energy, Inc.
+ROYL
+$0.135
+20.59%
+7.05M
+
+Rhino Resource Partners LP Common Stock
+RHNO
+$0.44
+2.22%
+6.92M
+
+Camber Energy
+CEI
+$1.35
+0.75%
+6.75M
+
+Mexco Energy
+MXC
+$3.03
+1.00%
+6.18M
+
+Tengasco
+TGC
+$0.5189
+2.11%
+5.54M
+
+Barnwell Industries
+BRN
+$0.56
+1.63%
+4.64M
+
+New Concept Energy
+GBR
+$0.8917
+0.92%
+4.58M
+
+Surgutneftegas
+SGTPY
+$5.02
+2.24%
+3.87M
+
+Mid-Con Energy
+MCEP
+$2.18
+8.46%
+3.40M
+
+KEY ENERGY SVCS
+KEGX
+$6.61
+4.20%
+2.72M
+
+EP Energy Corp Class A Common Stock
+EPEGQ
+$0.0102
+1.92%
+2.60M
+
+DXI Energy Inc. Common Shares
+DXIEF
+$0.01
+0.00%
+2.53M
+
+PIONEER ENERGY SVCS CORP Common Stock
+PESXQ
+$0.0295
+10.61%
+2.35M
+
+Ultra Petroleum
+UPLCQ
+$0.01
+2.91%
+1.98M
+
+Seadrill Partners LLC Unit Repstg Ltd Liability Co Int
+SDLPF
+$0.2501
+37.42%
+1.88M
+
+ULTRAPETROL BAHAMAS LIMITED Common Stock
+ULTRF
+$0.013
+116.67%
+1.83M
+
+FORESIGHT ENERGY LP COM UNIT REPSTG LTD PARTNER INTS
+FELPQ
+$0.01
+9.09%
+1.46M
+
+DTE Energy Preferred
+DTP
+$41.00
+0.15%
+1.07M
+
+Paringa Resources
+PNRLY
+$0.0625
+197.62%
+776.08K
+
+Sanchez Energy Corp Common Stock
+SNECQ
+$0.0075
+2.74%
+767.49K
+
+Hornbeck Offshore Services, Inc. Common Stock
+HOSSQ
+$0.016
+11.11%
+607.89K
+
+Alta Mesa Resources
+AMRQQ
+$0.0033
+10.00%
+603.38K
+
+Perkins Oil & Gas
+OOIL
+$0.02
+0.00%
+595.40K
+
+APPROACH RES INC Common Stock
+AREXQ
+$0.006
+9.09%
+561.78K
+
+Yuma Energy
+YUMAQ
+$0.23
+0.00%
+356.96K
+
+Fieldpoint Petroleum Corp
+FPPP
+$0.02
+2.44%
+213.38K
+
+South Jersey Industries
+SJIJ
+$25.15
+1.13%
+201.20K
+
+Erin Energy Corp Common Stock
+ERINQ
+$0.0009
+0.00%
+193.74K
+
+Petrogress
+PGAS
+$0.035
+12.50%
+183.34K
+
+Atlas Energy Group, LLC
+ATLS
+$0.0047
+7.84%
+150.28K
+
+Hyperdynamics Corp Common Stock
+HDYNQ
+$0.0029
+163.64%
+103.16K
+
+Eco-Stim Energy Solutions Common Stock
+ESESQ
+$0.0038
+216.67%
+71.71K
+
+Samson Oil & Gas Limited American Depositary Receipts - Sponsored
+SSNYY
+$0.0298
+41.90%
+53.62K
+
+Vantage Drilling
+VTGDF
+$0.0033
+0.00%
+1.03K
+
+GLORI ENERGY INC Common Stock
+GLRI
+$0.0022
+0.00%
+71.21
+
+New Source Energy Partners L.P Common Stock (Unit Rep Limited Partnership Int)
+NSLPQ
+$0.0041
+0.00%
+67.74
+
+Cal Dive International Common Stock
+CDVIQ
+$0.0006
+0.00%
+59.15
+
+Andatee China Marine Fuel Services Corporation Common Stock
+AMCF
+$0.004
+58.76%
+41.02
+
+PostRock Energy Corporation Common Stock
+PSTRQ
+$0.0052
+0.00%
+34.07
+
+Sonde Resources Corporation Ordinary Shares
+SOQDQ
+$0.0002
+0.00%
+11.21
+
+ZAZA ENERGY CORP Common Stock undefined
+ZAZA
+$0.0001
+0.00%
+1.38
+
+Entergy New Orleans First Mortgage Bonds 5.50% Series Due 2066
+ENO
+$25.80
+0.25%
+—
+
+Talos Energy (Warrants)
+TALO+
+$0.22
+0.00%
+—
+
+Enbridge Inc. 6.375% Fixed-to-Floating Rate Subordinated Notes Series 2018-B due 2078
+ENBA
+$24.34
+1.80%
+—
+
+Just Energy (Preferred)
+JE-A
+$1.80
+5.26%
+—
+
+Tennessee Valley Authority Power Bonds 99 Series A
+TVE
+$25.13
+0.02%
+—
+
+Entergy Arkansas, LLC First Mortgage Bonds, 4.75% Series due June 1, 2063
+EAE
+$25.45
+0.24%
+—
+
+CHS (Preferred)
+CHSCM
+$25.03
+0.63%
+—
+
+Algonquin Power & Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due
+AQNA
+$26.93
+0.55%
+—
+
+Consumers Energy
+CMS-B
+$106.40
+0.14%
+—
+
+DCP Midstream Preferred B
+DCP-B
+$18.02
+1.36%
+—
+
+Southern 5.25% Jr. Sub. Notes 120177 Series 2017B
+SOJC
+$26.01
+0.06%
+—
+
+Georgia Power
+GPJA
+$25.50
+0.43%
+—
+
+CHS (Preferred)
+CHSCL
+$26.84
+0.34%
+—
+
+Tidewater (Warrant)
+TDW+B
+$0.55
+10.00%
+—
+
+Southern 6.25% Notes Series 2015A
+SOJA
+$25.64
+0.08%
+—
+
+Genie Energy (Preferred)
+GNE-A
+$8.34
+0.28%
+—
+
+Rosehill Resources (Warrant)
+ROSEW
+$0.0199
+10.56%
+—
+
+U.S. Well Services, Inc. Warrants
+USWSW
+$0.022
+18.52%
+—
+
+Spark Energy (Preferred)
+SPKEP
+$20.15
+3.31%
+—
+
+The Southern Company Preferred N
+SOLN
+$46.37
+1.98%
+—
+
+Tidewater Inc.
+TDW+
+$0.26
+0.00%
+—
+
+NuStar
+NS-A
+$20.53
+1.21%
+—
+
+South Jersey Industries (Preferred)
+SJIU
+$45.93
+3.91%
+—
+
+Southern 5.25% Jr. Sub. Notes Series 2016A
+SOJB
+$25.58
+0.12%
+—
+
+Interstate Power & Light Company Perp Prd Ser D
+IPLDP
+$25.35
+0.20%
+—
+
+Entergy Louisiana First Mortgage Bonds 5.25% Series Due 2052
+ELJ
+$25.56
+0.18%
+—
+
+Targa Resources (Preferred)
+NGLS-A
+$23.00
+1.71%
+—
+
+DTE Energy 5.25% Jr. Sub. Deb. due 2077
+DTW
+$25.85
+0.50%
+—
+
+Altus Midstream Company Warrant Exp 06/30/2022
+ALTMW
+$0.035
+0.00%
+—
+
+Zion Oil & Gas (Warrant)
+ZNWAA
+$4,294.67
+0.00%
+—
+
+Dominion Energy 5.25% Jr. Sub. Notes 2076
+DRUA
+$25.48
+1.09%
+—
+
+Sempra Energy 5.750% Junior Subordinated Notes due 2079
+SREA
+$25.30
+0.32%
+—
+
+Energy Fuels (Warrant)
+UUUU+
+$0.7576
+3.80%
+—
+
+CHS (Preferred)
+CHSCP
+$28.52
+1.89%
+—
+
+Vistra Energy Corp.Warrants to purchase Common Stock (Expiring February 2, 2024)
+VST+A
+$0.75
+0.00%
+—
+
+Mitcham (Preferred)
+MINDP
+$15.50
+9.93%
+—
+
+Entergy Arkansas, LLC First Mortgage Bonds, 4.90% Series due December 1, 2052
+EAB
+$25.63
+0.87%
+—
+
+NextEra Energy Preferred P
+NEE-P
+$42.34
+0.38%
+—
+
+The Southern Company Preferred D
+SOJD
+$24.75
+0.65%
+—
+
+Energy Transfer Operating, L.P. 7.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetu
+ETP-C
+$19.94
+0.56%
+—
+
+Alta Mesa Resources, Inc. Warrant Exp. 02/09/2023
+AMRWQ
+$0.0002
+75.00%
+—
+
+Duke Energy 5.125% Jr. Sub. Deb. due 2073
+DUKH
+$25.17
+0.08%
+—
+
+DTE Energy 5.25% Jr. Sub. Deb. due 2062
+DTQ
+$25.07
+0.16%
+—
+
+Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cu
+SR-A
+$25.86
+0.15%
+—
+
+Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078
+DUKB
+$27.28
+0.39%
+—
+
+Basic Energy Services New Warrant Exp 12/23/2023
+BASWW
+$0.03
+172.73%
+—
+
+Gaslog Partners Preferred B
+GLOP-B
+$16.40
+2.50%
+—
+
+Harvest Oil & Gas Corporation Warrants Expiring 06/04/2023
+HRSTW
+$0.05
+0.00%
+—
+
+Alabama Power
+ALP-Q
+$26.91
+0.07%
+—
+
+DTE Energy 5.375% Jr. Sub. Deb. due 2076
+DTJ
+$25.42
+0.12%
+—
+
+National Energy Services Reunited (Warrant)
+NESRW
+$0.32
+8.57%
+—
+
+Entergy Arkansas, LLC First Mortgage Bonds, 4.875% Series due September 1, 2066
+EAI
+$25.84
+0.41%
+—
+
+Entergy New Orleans First Mortgage Bonds 5.0% Series Due 2052
+ENJ
+$25.20
+0.76%
+—
+
+CMS Energy (Preferred)
+CMSA
+$26.03
+0.27%
+—
+
+CHS (Preferred)
+CHSCN
+$25.69
+0.12%
+—
+
+CHS (Preferred)
+CHSCO
+$27.43
+0.00%
+—
+
+NuStar
+NS-B
+$19.00
+1.33%
+—
+
+NGL Energy (Preferred)
+NGL-B
+$15.95
+2.58%
+—
+
+Entergy Texas First Mortgage Bonds 5.625% Series due 2064
+EZT
+$26.16
+0.76%
+—
+
+NEXTDECADE CORP Warrant 01/01/2021
+NEXTW
+$0.10
+0.00%
+—
+
+Tidewater (Warrant)
+TDW+A
+$0.714
+16.00%
+—
+
+Algonquin Power & Utilities Preferred B
+AQNB
+$26.50
+1.25%
+—
+
+CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078
+CMSC
+$26.55
+0.25%
+—
+
+Blueknight Energy (Preferred)
+BKEPP
+$5.40
+0.37%
+—
+
+Entergy Louisiana Collateral Trust Mortgage Bonds 4.875 % Series Due 2066
+ELC
+$25.87
+0.37%
+—
+
+Teekay LNG Preferred B
+TGP-B
+$21.82
+0.55%
+—
+
+CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079
+CMSD
+$26.56
+0.13%
+—
+
+Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series due October 1, 2066
+EMP
+$26.01
+0.27%
+—
+
+Weatherford International PLC Warrants Expiring 12/13/2023
+WFTUF
+$0.245
+36.11%
+—
+
+DTE Energy 6.00% Jr. Sub. Deb. due 2076
+DTY
+$26.26
+0.23%
+—
+
+Entergy Louisiana First Mortgage Bonds 4.70% Series Due 2063
+ELU
+$25.21
+0.25%
+—
+
+Steel Partners (Preferred)
+SPLP-A
+$16.00
+1.52%
+—
+
+Dominion Energy Preferred
+DCUE
+$100.30
+0.85%
+—
+
+Chesapeake Energy (Preferred)
+CHK-D
+$2.89
+8.77%
+—
